@@ -66,3 +66,7 @@ Add one line to your hosts file (the tool prints it), and delete the line to und
 ```
 50.114.4.194 connect.example.net
 ```
+
+## License
+
+[MIT](LICENSE)
